@@ -1,0 +1,683 @@
+@media (min-width: 320px) and (max-width: 575px) {
+
+    .mean-container .mean-bar {
+      
+        background:none ;
+        padding: 4px 0;
+        min-height: 70px;
+        position: fixed;
+    }
+    .mean-container .mean-nav ul li  a{
+        width: 100%;
+        text-align: center;
+        display: inline-block;
+    }
+    .alogoridom{
+        text-align: center;
+    }
+
+
+.logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    padding: 5px 
+}
+.logo h1 {
+    padding: 8px 0px 0px 5px;
+    color: white;
+    font-size: 38px;
+    text-transform: uppercase;
+}
+.mean-container .mean-bar {
+      
+    background:rgba(0, 0, 0, 0.219);
+    padding: 4px 0;
+   height: 40px;
+    position: fixed;
+    top: 0;
+    z-index: 555555555555555555555555555555;
+
+}
+.logo img {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    
+}
+.sticky-menu {
+ 
+    z-index: 2222222222222;
+    height: 0px;
+    background: #3B35DB;
+  }
+
+
+.meanmenu-reveal {
+   margin-top: 10px;
+   padding: 0px 23px;
+}
+
+.mean-container a.meanmenu-reveal span {
+height: 4px;
+margin-top: 4px;
+}
+.mean-container .mean-nav {
+margin-top:75px
+}
+
+.mean-container .mean-nav ul li a {
+    background-color: lightslategray;
+    text-align: center;
+}
+
+.banner-kuna {
+   
+    display: none;
+}
+.banner-text {
+    padding-top: 80px;
+}
+.pt-150 {
+    padding-top: 0px;
+    margin-top: -15px;
+}
+.banner-text h1 {
+    font-size: 9vw;
+    color: white;
+    text-align: center;
+}
+.banner-text .right {
+    display: none;
+}  
+.banner-text .left{
+    display: none;
+} 
+.banner-text p {
+    font-size: 19px;
+    text-align: center;
+    padding: 0;
+
+}
+
+.banner-text .banner-mobile {
+display: none;
+}
+.banner {
+    height: 800px;
+   
+}
+
+.banner-text .read {
+  
+   
+}
+.banner-text .learn {
+
+  
+    margin-top: 18px!important;
+}
+.counter {
+    margin-top: -180px;
+}
+.header {
+    height: 680px;
+    background-color: gray;
+}
+.res {
+    font-size: 36px !important;
+}
+.features p {
+    font-size: 18px;
+}
+.unique p {
+    font-size: 16px;
+}
+.bg-img {
+    width: 100%;
+    margin-top: 250px;
+}
+.bg-img {
+    
+    background-position-x: 69%;
+    background-position-y: -30%;
+}
+
+.play{
+    padding: 30px 0px;
+}
+
+.works {
+ margin-top: 100px;
+}
+.works-text {
+    padding-top: 0px;
+}
+.works-text h2 {
+    padding-right: 0px;
+}
+.works p {
+    font-size: 17px;
+    
+    text-align: center !important;
+}
+.works-text h2 {
+ font-size: 24px;
+}
+.works p {
+    font-size: 17px;
+   
+}
+
+.video .watch {
+    margin-top: 0px;
+    height: 278px;
+}
+.watch h2 {
+    font-size: 36px;
+}
+.play {
+    width: 70px;
+    height: 70px;
+    padding: 26px 0px;
+}
+.play {
+    padding: 20px 0px;
+}
+
+.card {
+    padding: 10px;
+    
+}
+.card-footer input {
+   
+    width: 170px;
+    height: 52px;
+    font-size: 14px;
+}
+.screenshot h2 {
+    font-size: 40px;
+}
+.screenshot p {
+    font-size: 18px; 
+}
+.features {
+   
+  
+    padding-bottom: 0px;
+    background-position-y: 2%,93%;
+}
+.testimonial p {
+    font-size: 20px;
+}
+.testimonial h2 {
+    font-size: 34px;
+  
+}
+.testimonial .container {
+    padding-top: 250px;
+    padding-bottom: 50px;
+   
+}
+.text-img {
+    width: 300px;
+  
+}
+.text-img {
+    width: 291px;
+}
+.text-img {
+ padding: 4px 0;
+   
+}
+.news-img img {
+    border-radius: 20px;
+    width: 100%;
+}
+.slick-center {
+    opacity: 1;
+}
+
+.details h2 {
+    font-size: 40px;
+   
+}
+.logo-slider h2 {
+    font-size: 24px;
+}
+.logo-slide {
+    padding-bottom: 50px;
+}
+.col-lg-10.m-auto {
+    margin-top: -30px !important;
+}
+.channel h2 {
+    font-size: 28px;
+    padding-bottom:12px;
+}
+.channel .letter {
+    width: 100%;
+    height: 60px;
+    font-size: 14px;
+}
+.email {
+    width: 100%;
+    
+}
+
+.channel .sub {
+    width: 150px;
+    height: 50px;
+    right: 5px;
+  top: 5px;
+   
+}
+.available h2 {
+    font-size: 34px;
+    color: #38363D;
+}
+.playstore img {
+   
+    margin: auto;
+   
+    width: 281px;
+}
+.blog {
+    width: 80%;
+    height: auto;
+    box-shadow: 0 1px 10px 0 rgba(0,0,0,0.1);
+    background-color: white;
+    padding: 18px 16px;
+}
+.mean-container .mean-nav ul li li a {
+    width: 100%;
+    
+}
+.mean-container .mean-nav ul li li li a {
+    width: 100%;
+    padding: 1em 15%;
+}
+
+.ofset {
+    font-size: 18px!important;
+    padding: 0px 0px;
+    text-align: center;
+}
+
+}
+
+
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .mean-container .mean-bar {
+      
+        background:none ;
+        padding: 4px 0;
+        min-height: 80px;
+        position: fixed;
+    }
+    .logo{
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 999;
+        padding: 5px 
+    }
+    .logo h1 {
+        padding: 8px 0px 0px 8px;
+        color: white;
+        font-size: 38px;
+        text-transform: uppercase;
+    }
+.available h2 {
+    font-size: 52px;
+    
+}
+
+
+.pt-150 {
+    padding-top: 0px;
+    margin-top: -30px;
+    text-align: center;
+}
+.banner-text {
+    padding-top: 80px;
+}
+.banner-text h1 {
+    font-size: 58px;
+}
+
+.banner-kuna {
+    
+    display: none;
+}
+.banner-text .right {
+    display: none;
+}  
+.banner-text .left{
+    display: none;
+} 
+.banner-text .banner-mobile {
+    height: 660px;
+    margin: auto;
+    right: 0;
+    left: 0;
+}
+.banner {
+    /* background-position: 76%; */
+    height: 1442px;
+    background-position: bottom left;
+   
+}
+.header {
+    height: 1240px;
+    background-color: gray;
+}
+.video .watch {
+   
+    margin-top: 0px;
+   
+}
+.bg-img {
+    width: 100%;
+    margin-top: 350px;
+}
+.video .watch {
+    margin-top: -150px;
+    height: 390px;
+}
+.play{
+    padding: 30px 0px;
+}
+
+.works {
+ margin-top: 100px;
+}
+.works-text {
+    padding-top: 0px;
+}
+.works-text h2 {
+    padding-right: 0px;
+}
+.bg-img {
+    background-position-x: 45%;
+    background-position-y: -89%;
+}
+.news-img img {
+    border-radius: 20px;
+    width: 100%;
+}
+.blog {
+    width: 66%;
+   
+    padding: 20px 60px;
+}
+.blog-part {
+    margin-top: -94px!important;
+    position: relative;
+}
+.email {
+    width: 100%;
+}
+.channel h2 {
+    font-size: 28px;
+    padding-bottom:12px;
+}
+.channel .letter {
+    width: 100%;
+    height: 60px;
+    font-size: 14px;
+}
+.email {
+    width: 100%;
+    
+}
+
+.channel .sub {
+    width: 150px;
+    height: 50px;
+    right: 5px;
+  top:5px;
+   
+}
+
+.playstore img {
+    width: 280px;
+}
+.available h2 {
+    font-size: 48px;
+    color: #38363D;
+}
+.logo-slider h2 {
+    font-size: 30px;
+}
+.copyright p {
+    font-size: 15px;
+}
+
+    .slick-center {
+        opacity:1;
+    }
+
+    .mean-container .mean-bar {
+      
+        background:rgba(0, 0, 0, 0.219);
+        padding: 4px 0;
+        min-height: 40px;
+        position: fixed;
+        top: 0;
+        z-index: 555555555555555555555555555555;
+    }
+    .logo img {
+        position: absolute;
+        top: 10px;
+        left: 0;
+        
+    }
+    .sticky-menu {
+     
+        z-index: 2222222222222;
+        height: 0px;
+        background: #3B35DB;
+      }
+	
+    
+    .meanmenu-reveal {
+       margin-top: 13px;
+       padding: 0px 23px;
+ }
+
+    .mean-container a.meanmenu-reveal span {
+    height: 4px;
+    margin-top: 4px;
+    }
+    .mean-container .mean-nav {
+   margin-top:80px
+    }
+    
+    .mean-container .mean-nav ul li a {
+        background-color: lightslategray;
+        text-align: center;
+    }
+
+    .mean-container .mean-nav ul li li a {
+        width: 100%;
+        
+    }
+    .mean-container .mean-nav ul li li li a {
+        width: 100%;
+        padding: 1em 15%;
+    }
+
+    .ofset {
+        font-size: 20px!important;
+        padding: 15px 0px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-menu ul li a {
+        margin: 12px 0px;
+        padding: 3px 7px;
+        font-size: 16px;
+    }
+    .banner-text .right {
+        display: none;
+    }  
+    .banner-text .left{
+        display: none;
+    } 
+    .banner-text .banner-mobile {
+       
+        height: 827px;
+      
+        right: -23px;
+        z-index: 1;
+       
+    }
+    .banner-text h1{
+        z-index: 999999999999999999999;
+    }
+    .works-text{
+        padding-top:10px;
+    }
+    .works-text h2 {
+        color: #393542;
+        font-size: 30px;
+        padding-right: 0px;
+    }
+    .bg-img {
+        background-position-y: 11%;
+        background-position-x: 34%;
+    }
+    .works {
+        margin-top: 120px;
+       
+    }
+    .card {
+        padding: 30px 5px;
+        
+    }
+    .card-title p {
+        color: #30323D;
+        font-size: 16px;
+       
+    }
+    .card-title h6{
+        display: inline;
+        margin: 0;
+        padding:0;
+     font-size:18px ;
+     color: #30323D;
+    }
+    .card-title span{
+       font-size: 60px;
+       display: inline;
+       margin: 0;
+       padding:0;
+       color: #7336F1;
+        
+    }
+    .card-title .tan {
+        font-size: 36px;
+        margin: -13px;
+        padding: 0;
+        color: #30323D;
+    }
+    .card-body {
+    
+    }
+     .card-body a {
+        color: #007bff;
+        text-decoration: none;
+        background-color: transparent;
+        display: block;
+        font-size: 16px;
+        color: #878991;
+        margin: 9px 0px;
+    }
+    .card-footer{
+        background: none;
+        border: none;
+    }
+    
+    .card-footer input {
+        width: 145px;
+        height: 52px;
+       
+        font-size: 12px;
+    }
+    .video .watch {
+        width: 100%;
+        height: 440px;
+      
+        margin-top: -196px;
+       
+    }
+    .blog {
+        width: 90%;
+       padding: 5px 5px;
+    }
+    .news p {
+        font-size: 14px;
+        color: #878991;
+    }
+    .blog i {
+        font-size: 14px;
+        color: #7B73EE;
+    }
+    .blog-part {
+        margin-top: -60px!important;
+        position: relative;
+    }
+    .ofset {
+        font-size: 22px!important;
+        padding: 15px 60px;
+    }
+    
+
+
+    
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    .main-menu ul li a {
+       
+        padding: 3px 10px;
+        font-size: 17px;
+       
+    }
+
+    .banner-text .banner-mobile {
+        right: -11px;
+    } 
+    .banner-text .right {
+        position: absolute;
+        right: -15px;
+        width: 260px;
+      
+    }
+    .banner-text .banner-mobile {
+       top: -30px;
+    }
+    .works-text{
+        padding-top:60px;
+    }
+.bg-img {
+        background-position-y: 92%;
+    }
+    .blog {
+      
+        padding: 20px 20px;
+    }
+    .ofset {
+        font-size: 22px!important;
+        padding: 15px 180px;
+    }
+
+}
